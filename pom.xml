@@ -12,7 +12,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <hadoop.version>2.6.0</hadoop.version>
+    <hadoop.version>2.10.1</hadoop.version>
     <gridstore.version>2.5.1</gridstore.version>
     <gridstore.jar>${project.basedir}/lib/gridstore.jar</gridstore.jar>
   </properties>
